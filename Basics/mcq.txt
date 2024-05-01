@@ -1,0 +1,10 @@
+q1. opt 4
+q2.strongly typed
+q3.java.lang
+q4. x || y
+q5.(true | false) ^ true;
+q6. both
+q7.0
+q8. 2nd one
+q9.1 2 & 3
+q10. false true
